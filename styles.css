@@ -66,15 +66,20 @@ button {
   border-color: #5936cd;
   border-width: 2px;
   border-style: solid;
+  cursor: pointer;
 }
 
 button.small {
+  border-width: 2px;
+  border-color: #5936cd;
+  border-style: solid;
   background-color: #f4f4f9;
   color: #010400;
+  font-weight: bold;
   font-size: 14px;
   border-radius: 8px;
+  height: 16px;
   width: 90px;
-  height: 36px;
 }
 
 input {
