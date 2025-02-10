@@ -1,6 +1,6 @@
 # Wallet App
 
-<img src="https://github.com/viniciusgorges/wallet-app-frontend/blob/master/src/img/preview.png" alt="Wallet Preview" height="500">
+<img src="https://github.com/viniciusgorges/wallet-app-frontend/blob/master/src/img/preview.png" alt="Wallet Preview" height="228" width="678">
 
 ## Introduction
 
